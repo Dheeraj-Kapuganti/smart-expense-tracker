@@ -3,6 +3,7 @@
 // ============================================
 
 // Application state and configuration
+//ci cd test
 const App = {
     expenses: [],
     categories: ['Food', 'Travel', 'Shopping', 'Bills', 'Entertainment', 'Others'],
